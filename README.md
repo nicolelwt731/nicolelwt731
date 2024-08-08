@@ -1,4 +1,4 @@
-👋 Hi, I’m Nicole
+# 👋 Hi, I’m Nicole
 
 - 🌱 Master of Computer and Information Technology @ Upenn Engineering ’26
 - 💞️ I'm passionate about exploring the intersection of technology and society 
