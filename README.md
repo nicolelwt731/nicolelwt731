@@ -82,12 +82,11 @@ A Chrome extension that boosts user positivity through daily curated tasks and g
 🧰 Tech Stack: HTML, CSS, JavaScript, Chrome Extension API  
 🛍️ Available on the Chrome Web Store
 
-### 🧠 Vera AI (Retail Voice Processing Pipeline)
+### 🧠 Vera AI (Retail Voice Processing Pipeline) *(in progress)*
 An AI-powered pipeline designed to process and segment 4–6 hours of in-store retail audio.  
 🎯 Focused on denoising, voice segmentation, speaker diarization, and filtering for customer-staff conversations.  
 🧰 Tech Stack: Python, Demucs, Silero-VAD, PyAnnote, FasterWhisper, Resemblyzer, Flask  
-🔍 My role: Pipeline design, library integration, workflow diagramming, and prototyping *(in progress)*
-A full-stack, cloud-based note-sharing platform using Flask, MongoDB, and AWS S3.  
+🔍 My role: Pipeline design, library integration, workflow diagramming, and prototyping 
 
 ---
 
