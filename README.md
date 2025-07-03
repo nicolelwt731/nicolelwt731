@@ -3,7 +3,7 @@
 🌱 Master of Computer and Information Technology @ UPenn Engineering ’26  
 💡 Passionate about the intersection of technology and society  
 💻 Aspiring software engineer with interest in backend systems and full-stack development  
-📍 Yantai • Beijing • Philadelphia
+✨ I love exploring how tech can empower marginalized communities and make systems more inclusive
 
 ---
 
@@ -42,7 +42,6 @@ An AI-powered pipeline designed to process and segment 4–6 hours of in-store r
 🧰 Tech Stack: Python, Demucs, Silero-VAD, PyAnnote, FasterWhisper, Resemblyzer, Flask  
 🔍 My role: Pipeline design, library integration, workflow diagramming, and prototyping *(in progress)*
 A full-stack, cloud-based note-sharing platform using Flask, MongoDB, and AWS S3.  
-☁️ Upload, store, and retrieve your notes across devices via a mobile-friendly interface.
 
 ---
 
@@ -52,4 +51,4 @@ A full-stack, cloud-based note-sharing platform using Flask, MongoDB, and AWS S3
 
 ---
 
-✨ Fun fact: I love exploring how tech can empower marginalized communities and make systems more inclusive.
+
