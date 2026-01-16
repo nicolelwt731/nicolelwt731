@@ -128,7 +128,7 @@ I enjoy designing systems that sit at the intersection of **engineering rigor an
 ## 📫 Let’s Connect
 
 📍 Philadelphia, PA  
-📧 nicole.lili731@gmail.com  
+📧 wtl731@seas.upenn.edu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-liwt)
 
