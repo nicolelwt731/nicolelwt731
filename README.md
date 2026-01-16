@@ -9,15 +9,6 @@ I enjoy designing systems that sit at the intersection of **engineering rigor an
 
 ---
 
-## 🧭 Technical Interests
-
-- Backend & distributed systems at scale  
-- Data infrastructure, reliability, and performance optimization  
-- AI agents with memory, tools, and decision logic  
-- Technology that empowers communities and improves access to information
-
----
-
 ## 🛠️ Technical Skills
 
 ### 🗣️ Languages
