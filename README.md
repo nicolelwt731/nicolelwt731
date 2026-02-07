@@ -123,6 +123,3 @@ I enjoy designing systems that sit at the intersection of **engineering rigor an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-liwt)
 
----
-
-⭐ I’m especially interested in roles involving **backend systems, distributed infrastructure, data platforms, and AI-enabled products**.
