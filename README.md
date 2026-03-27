@@ -1,6 +1,6 @@
 # Hi, I'm Nicole 👋
 
-Master's student at **University of Pennsylvania** (MCIT, May 2026) with a background in Quantitative Statistics from Peking University. I build backend systems, distributed pipelines, and AI-powered applications.
+Master's student at University of Pennsylvania (MCIT, May 2026) with a background in Quantitative Statistics from Peking University. I build backend systems, distributed pipelines, and AI-powered applications.
 
 📍 Philadelphia, PA &nbsp;|&nbsp; 📧 nicole.lili731@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/nicole-liwt) &nbsp;|&nbsp; 🏆 Top 3 @ MCIT Hackathon 2025
 
@@ -24,7 +24,7 @@ Master's student at **University of Pennsylvania** (MCIT, May 2026) with a backg
 ### [StoreIntel - AI Retail Analytics Agent](https://github.com/nicolelwt731/StoreIntel-On-Device-Retail-Floor-Intelligence)
 > *Python · PyTorch · Gemma 3n · FastAPI · OpenCV · GCP* &nbsp;|&nbsp; **Google DeepMind Hackathon**
 
-Multi-agent retail monitoring system using a fine-tuned **Gemma 3n** vision-language model to process live camera feeds — distinguishes staff from customers in real time, calculates staffing shortfalls, and delivers alerts to a live dashboard.
+Multi-agent retail monitoring system using a fine-tuned Gemma 3n vision-language model to process live camera feeds — distinguishes staff from customers in real time, calculates staffing shortfalls, and delivers alerts to a live dashboard.
 
 - Dual-agent architecture: `FloorAlertAgent` for frame analysis + `InsightAgent` for business logic
 - End-to-end pipeline: OpenCV ingestion → FastAPI backend → polling dashboard
